@@ -4,7 +4,7 @@
 
 Software architect, [making good code](https://makegoodcode.com) for almost four decades. Started with C and game development, co-founded [Joomla](https://github.com/joomla) in 2005 and was lead developer of Joomla 1.5 — at its peak it powered ~3% of the web. These days I tinker mostly with PHP runtimes in Go and C, pushing [FrankenPHP](https://github.com/dunglas/frankenphp) into places it probably shouldn't go. If PHP can't do it yet, I'll make it.
 
-Fractional CTO and architect, running [@timble](https://github.com/timble). Building Joomla extensions for two decades at [@joomlatools](https://github.com/joomlatools), and working on something new at [@foliolabs](https://github.com/foliolabs). Based in Diest, Belgium.
+Fractional CTO and Sofware Architect, running [@timble](https://github.com/timble). Building Joomla extensions for two decades at [@joomlatools](https://github.com/joomlatools), and working on something new at [@foliolabs](https://github.com/foliolabs). Based in Diest, Belgium.
 
 ---
 
