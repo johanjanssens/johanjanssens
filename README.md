@@ -12,7 +12,8 @@ Fractional CTO and Sofware Architect, running [@timble](https://github.com/timbl
 
 | Repo | What | Stars |
 |------|------|-------|
-| [**frankenasync**](https://github.com/johanjanssens/frankenasync) | Concurrent PHP execution via FrankenPHP threads — 100x+ speedup with standard blocking code | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenasync?style=flat-square&color=555) |
+| [**frankenonnx**](https://github.com/johanjanssens/frankenonnx) | In-process ONNX inference for PHP — sentiment, embeddings, object detection, and TTS | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenonnx?style=flat-square&color=555) |
+| [**frankenasync**](https://github.com/johanjanssens/frankenasync) | Concurrent PHP execution via FrankenPHP threads — 150x+ speedup with standard blocking code | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenasync?style=flat-square&color=555) |
 | [**frankenwasm**](https://github.com/johanjanssens/frankenwasm) | WASM plugin runtime for PHP — call Go, Rust, JS modules via Extism | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenwasm?style=flat-square&color=555) |
 | [**frankenwails**](https://github.com/johanjanssens/frankenwails) | Native desktop apps with PHP + Wails — no HTTP server, direct in-process calls | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenwails?style=flat-square&color=555) |
 
@@ -30,4 +31,3 @@ Fractional CTO and Sofware Architect, running [@timble](https://github.com/timbl
 ### Stack
 
 C — where it started · PHP — where it stuck · Go — where the runtimes live
-
