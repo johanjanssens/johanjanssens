@@ -12,6 +12,7 @@ Fractional CTO and Sofware Architect, running [@timble](https://github.com/timbl
 
 | Repo | What | Stars |
 |------|------|-------|
+| [**frankenstate**](https://github.com/johanjanssens/frankenstate) | Thread-safe shared state for PHP — in-process KV store with Redis protocol | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenstate?style=flat-square&color=555) |
 | [**frankenonnx**](https://github.com/johanjanssens/frankenonnx) | In-process ONNX inference for PHP — sentiment, embeddings, object detection, and TTS | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenonnx?style=flat-square&color=555) |
 | [**frankenasync**](https://github.com/johanjanssens/frankenasync) | Concurrent PHP execution via FrankenPHP threads — 150x+ speedup with standard blocking code | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenasync?style=flat-square&color=555) |
 | [**frankenwasm**](https://github.com/johanjanssens/frankenwasm) | WASM plugin runtime for PHP — call Go, Rust, JS modules via Extism | ![stars](https://img.shields.io/github/stars/johanjanssens/frankenwasm?style=flat-square&color=555) |
